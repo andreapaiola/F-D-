@@ -1,15 +1,15 @@
-PROJECT F$D€
+###PROJECT F$D€
 
 https://www.facebook.com/gabriele.manganello/posts/10209967750768049
 
-Retweeted Rik Lomas (@riklomas):
-❎ Client not paid?
-✅ Add opacity to the body tag and increase it every day until their site completely fades away
+Retweeted Rik Lomas (@riklomas):  
+❎ Client not paid?  
+✅ Add opacity to the body tag and increase it every day until their site completely fades away  
 
 
 ------------------------
 
-HOW?!?
+###HOW?!?
 
 ```
  $$$$$$\   $$$$$$\   $$$$$$\        $$$$$$$\   $$$$$$\  $$\      $$\ $$$$$$$$\ $$$$$$$\  
@@ -33,7 +33,7 @@ SEE EXAMPLES IN "examples" DIRECTORY -insert mind blown here-
 
 PARAMETERS:
 
-FadePaid start: it's the second that all start to fade away, since the Unix Epoch (January 1 1970 00:00:00 GMT)
+FadePaid start: it's the second that all start to fade away, since the Unix Epoch (January 1 1970 00:00:00 GMT)  
 default: next week
 
 FadePaid end: now it's gone
