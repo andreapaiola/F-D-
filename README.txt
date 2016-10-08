@@ -23,7 +23,7 @@ $$ |  $$\ $$\   $$ |$$\   $$ |      $$ |      $$ |  $$ |$$$  / \$$$ |$$ |      $
                                                                                          
                                                                                          
                                                                                          
-<a href="http://caniuse.com/#search=opacity" target="_blank">Can I use this amazing opacity magic?</a>
+[Can I use this amazing opacity magic?](http://caniuse.com/#search=opacity)
 
 
 Generic infos
@@ -58,7 +58,7 @@ JAVASCRIPT infos
 
 Load "fade.js" in your page as in index.html example
 
-<a href="http://kangax.github.io/compat-table/es5/#Date.now" target="_blank">Can I use this amazing opacity magic?</a>
+[Can I use this amazing time magic?](http://kangax.github.io/compat-table/es5/#Date.now)
 
 
 
