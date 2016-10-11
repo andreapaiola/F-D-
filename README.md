@@ -7,6 +7,10 @@ Retweeted Rik Lomas (@riklomas):
 ✅ Add opacity to the body tag and increase it every day until their site completely fades away  
 
 
+####WARNING
+
+[It's unprofessional. It's unethical. It's illegal.](https://news.ycombinator.com/item?id=12666707) Could be.
+
 ------------------------
 
 ###HOW?!?
@@ -51,6 +55,8 @@ PHP info
 ---------
 
 Include "fade.php" in your <body> tag as in index.php example
+
+OOP why not
 
 
 JAVASCRIPT infos
