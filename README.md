@@ -1,4 +1,5 @@
-###PROJECT F$D€
+PROJECT F$D€
+-------------
 
 https://www.facebook.com/gabriele.manganello/posts/10209967750768049
 
@@ -7,13 +8,15 @@ Retweeted Rik Lomas (@riklomas):
 ✅ Add opacity to the body tag and increase it every day until their site completely fades away  
 
 
-####WARNING
+WARNING
+-------
 
 [It's unprofessional. It's unethical. It's illegal.](https://news.ycombinator.com/item?id=12666707) Could be.
 
 ------------------------
 
-###HOW?!?
+HOW?!?
+------
 
 ```
  $$$$$$\   $$$$$$\   $$$$$$\        $$$$$$$\   $$$$$$\  $$\      $$\ $$$$$$$$\ $$$$$$$\  
